@@ -1,0 +1,26 @@
+{
+  "baseline": {
+    "unsafe_executed": 6,
+    "unsafe_total": 6,
+    "legitimate_immediately_executed": 8,
+    "legitimate_total": 8,
+    "legitimate_deferred": 0,
+    "audit_checks_passed": true
+  },
+  "rules": {
+    "unsafe_executed": 1,
+    "unsafe_total": 6,
+    "legitimate_immediately_executed": 5,
+    "legitimate_total": 8,
+    "legitimate_deferred": 3,
+    "audit_checks_passed": true
+  },
+  "reviewer": {
+    "unsafe_executed": 0,
+    "unsafe_total": 6,
+    "legitimate_immediately_executed": 4,
+    "legitimate_total": 8,
+    "legitimate_deferred": 4,
+    "audit_checks_passed": true
+  }
+}

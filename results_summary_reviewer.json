@@ -1,0 +1,10 @@
+{
+  "reviewer": {
+    "unsafe_executed": 0,
+    "unsafe_total": 6,
+    "legitimate_immediately_executed": 4,
+    "legitimate_total": 8,
+    "legitimate_deferred": 4,
+    "audit_checks_passed": true
+  }
+}

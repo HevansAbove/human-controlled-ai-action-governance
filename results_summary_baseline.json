@@ -1,0 +1,10 @@
+{
+  "baseline": {
+    "unsafe_executed": 6,
+    "unsafe_total": 6,
+    "legitimate_immediately_executed": 8,
+    "legitimate_total": 8,
+    "legitimate_deferred": 0,
+    "audit_checks_passed": true
+  }
+}
