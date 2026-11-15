@@ -94,7 +94,17 @@ There is no LLM, no small model, no real human account identity provider, no rea
 4. How would a full OS/container sandbox prevent access to non-gateway tools and exfiltration channels?
 5. Can independently evaluated, human-approved rule updates reduce repeated escalations without silently expanding authority?
 
-## Public release and rights
+### Learning from Human Oversight
+
+The proposed governance architecture is intended to support gradual improvements through observation of human oversight decisions.
+
+Over time, an AI system could identify recurring patterns in approved, rejected and escalated actions, helping it distinguish routine operations from situations requiring additional scrutiny. This learning could reduce unnecessary interruptions, improve the quality of recommendations and identify opportunities for safely simplifying established procedures.
+
+Crucially, **learning patterns of approval would not itself confer additional authority**. Any expansion of operational permissions would require explicit authorisation under the governing control framework, supported by appropriate evaluation and an auditable record.
+
+The long-term objective is a system that becomes more capable and contextually informed through supervised experience while preserving independent human control over consequential decisions.
+
+This adaptive capability remains a proposed research direction and is not implemented or validated in the current prototype.## Public release and rights
 
 The package is intended for **private repository review first**. No public-code licence is supplied here; choose any eventual release terms deliberately. Posting code publicly does not by itself prove the wider framework, originality, competitive standing or authorship of all underlying security ideas.
 
