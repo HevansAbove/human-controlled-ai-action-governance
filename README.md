@@ -104,7 +104,9 @@ Crucially, **learning patterns of approval would not itself confer additional au
 
 The long-term objective is a system that becomes more capable and contextually informed through supervised experience while preserving independent human control over consequential decisions.
 
-This adaptive capability remains a proposed research direction and is not implemented or validated in the current prototype.## Public release and rights
+This adaptive capability remains a proposed research direction and is not implemented or validated in the current prototype.
+
+## Public release and rights
 
 The package is intended for **private repository review first**. No public-code licence is supplied here; choose any eventual release terms deliberately. Posting code publicly does not by itself prove the wider framework, originality, competitive standing or authorship of all underlying security ideas.
 
