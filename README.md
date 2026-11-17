@@ -108,7 +108,7 @@ This adaptive capability remains a proposed research direction and is not implem
 
 ## Public release and rights
 
-The package is intended for **private repository review first**. No public-code licence is supplied here; choose any eventual release terms deliberately. Posting code publicly does not by itself prove the wider framework, originality, competitive standing or authorship of all underlying security ideas.
+This repository has been made publicly accessible for evaluation as part of the Drawerrr AI Safety Challenge. No open-source licence is currently granted. The author retains rights to the original materials, and future licensing decisions will be considered separately. No public-code licence is supplied here; choose any eventual release terms deliberately. Posting code publicly does not by itself prove the wider framework, originality, competitive standing or authorship of all underlying security ideas.
 
 ## Experimental model integration (v0.4 addition)
 
